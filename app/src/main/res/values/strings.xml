@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ex1Atv2EqSegGrau</string>
+    <string name="nome_aluno">Matheus Augusto Marti</string>
+    <string name="ra_aluno">RA: 1110482313017</string>
+    <string name="eq_seg_grau">Equação de 2º Grau</string>
+    <string name="num_a">Insira o número a</string>
+    <string name="num_b">Insira o número b</string>
+    <string name="num_c">Insira o número c</string>
+    <string name="calcular">Calcular</string>
+    <string name="erro_nao_e_segundo_grau">Erro: a equação não é de 2º grau</string>
+    <string name="erro_nao_tem_raiz_real">Erro: a equação não tem raízes reais</string>
+</resources>
